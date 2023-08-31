@@ -43,5 +43,6 @@ For detailed setup instructions and usage examples, refer to the documentation p
 Explore the Apple Support Portal client side and contribute to its development. If you have questions or suggestions, feel free to reach out.
 
 **Note:** The backend/server side of the application is in a separate repository.
+You can find it here: https://github.com/akhmadmamirov/supportTicketServer
 
 ---
