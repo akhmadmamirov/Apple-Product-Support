@@ -1,6 +1,5 @@
 # Apple Support Portal - Client Side
 
-![Apple Support Portal Logo]()
 
 ## See live: https://main--whimsical-arithmetic-01b7dc.netlify.app/
 
