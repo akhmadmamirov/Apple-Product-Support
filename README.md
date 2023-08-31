@@ -16,12 +16,14 @@ The Apple Support Portal client side provides the following features:
 - Enable users to register tickets for technical support with Apple products.
 
 <img width="770" alt="image" src="https://github.com/akhmadmamirov/Apple-Product-Support/assets/105142060/3c0dd783-ae12-428d-9951-38fb5116a45d">
+
 <img width="770" alt="image" src="https://github.com/akhmadmamirov/Apple-Product-Support/assets/105142060/24bd634a-62c0-4ce4-a0a7-ce6b7f377d93">
 
 - Integrate staff support functionality.
   - Users can initiate chat conversations with support staff.
   - Enhance customer support experience by providing real-time communication.
- 
+ <img width="770" alt="image" src="https://github.com/akhmadmamirov/Apple-Product-Support/assets/105142060/103e286c-7669-4df8-993c-bc738a66c4c5">
+
   
 - Utilize Redux for efficient state management.
   - Seamlessly manage application states and user interactions.
