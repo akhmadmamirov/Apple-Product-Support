@@ -16,8 +16,8 @@ The Apple Support Portal client side provides the following features:
 - Develop a Support Portal inspired by Apple's Product Support System using the MERN stack.
 - Enable users to register tickets for technical support with Apple products.
 
-<img width="1000" alt="image" src="https://github.com/akhmadmamirov/Apple-Product-Support/assets/105142060/3c0dd783-ae12-428d-9951-38fb5116a45d">
-<img width="1000" alt="image" src="https://github.com/akhmadmamirov/Apple-Product-Support/assets/105142060/24bd634a-62c0-4ce4-a0a7-ce6b7f377d93">
+<img width="770" alt="image" src="https://github.com/akhmadmamirov/Apple-Product-Support/assets/105142060/3c0dd783-ae12-428d-9951-38fb5116a45d">
+<img width="770" alt="image" src="https://github.com/akhmadmamirov/Apple-Product-Support/assets/105142060/24bd634a-62c0-4ce4-a0a7-ce6b7f377d93">
 
 - Integrate staff support functionality.
   - Users can initiate chat conversations with support staff.
